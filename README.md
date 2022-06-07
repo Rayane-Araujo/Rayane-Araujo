@@ -5,10 +5,10 @@
 - 📫 Contate-me no e-mail: rayanearaujo28@hotmail.com
 - 😄 Pronouns: ela/dela
 
-<div align="center">
-  <a href="https://github.com/rayane-araujo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rayane-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-araujo&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/roberto-hofstetter">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-hofstetter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-hofstetter&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
