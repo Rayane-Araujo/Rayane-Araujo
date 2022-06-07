@@ -21,7 +21,7 @@
   ##
   
   <div>
-  <a href = "mailto:rayanearaujo28@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/5592984256082"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rayanearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  ![Snake animation](https://github.com/rayane-araujo/rayane-araujo/blob/output/github-contribution-grid-snake.svg)
