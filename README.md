@@ -106,7 +106,7 @@ Me chamo Rayane Araújo, tenho mais de 2 anos de experiência como desenvolvedor
 
 ### 📧 Entre em contato
 
-<div align="center"> 
+<div align="left"> 
 <a href = "mailto:cmp.1a.rayanearaujo28@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rayanearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:"30px" target="_blank"></a> 
 </div>
