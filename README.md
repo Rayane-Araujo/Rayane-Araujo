@@ -5,7 +5,7 @@
 # 👩🏻‍💻 **`Desenvolvedora Front-End`**
 
 
-Me chamo Rayane Araújo, tenho mais de 2 anos de experiência como desenvolvedora. Já trabalhei durante 1 ano com Angular em um projeto para mobilidade urbana e com React 5 meses construindo uma plataforma financeira voltada para agronegócio. Sou apoixonada por tecnologia e construir interfaces web melhorando sua performance e integrações.  
+Me chamo Rayane Araújo, tenho mais de 2 anos de experiência como desenvolvedora. Já trabalhei durante 1 ano com Angular em um projeto para mobilidade urbana e 5 meses com React,  construindo uma plataforma financeira voltada para agronegócio. Sou apaixonada por tecnologia e construir interfaces web melhorando sua performance e integrações.  
 
 
 
