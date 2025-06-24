@@ -85,11 +85,11 @@ Me chamo Rayane Araújo, tenho mais de 2 anos de experiência como desenvolvedor
 
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Sass" 
+    title="Sass"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 <img 
